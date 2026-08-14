@@ -420,16 +420,6 @@ Exportable one-page system snapshot including specifications, performance status
 
 ---
 
-## Support
-
-Open an issue: https://github.com/xGlobalShock/GS-Center-Releases/issues
-
-View Releases: https://github.com/xGlobalShock/GS-Center-Releases/releases
-
-View Privacy:  https://github.com/xGlobalShock/GS-Center-Releases/blob/main/PRIVACY.md
-
----
-
 ## Inspired By
 
 A number of excellent projects inspired ideas, workflows, and features found throughout GS Center. Recognition goes to the creators of the following applications:
